@@ -1,6 +1,6 @@
 # HsOptionActivity
 
-![Sample Image](https://github.com/hsbaewa/HsOptionActivity/blob/master/sc_1.png)
+![Sample Image](https://github.com/hsbaewa/HsOptionActivity/blob/master/sc_1.png =100x)
 
 1. Main이 되는 Activity
 <pre><code>
