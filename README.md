@@ -1,4 +1,7 @@
 # HsOptionActivity
+
+![Sample Image](https://github.com/hsbaewa/HsOptionActivity/blob/master/sc_1.png)
+
 1. Main이 되는 Activity
 <pre><code>
 public class SampleActivity extends HsOptionActivity {
